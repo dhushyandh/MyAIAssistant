@@ -1,0 +1,6 @@
+{
+  "name": "Airo",
+  "description": "Dhushyandh's official AI personal assistant to explore his projects, technical skills, experience, and chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
